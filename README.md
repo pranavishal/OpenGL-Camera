@@ -9,7 +9,7 @@ A 3D Camera to traverse a scene with 3D shapes made with OpenGL and C++
 
 4. Bound VBAs and VBOs for vertex shader properties
 
-5.Performed vector and matrix operations using GLM
+5. Performed vector and matrix operations using GLM
 
 
 View Demo:
